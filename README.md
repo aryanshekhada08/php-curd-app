@@ -56,21 +56,9 @@ A complete **Student Registration and Management System** built using **PHP, MyS
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/php-crud-student.git
+   git clone https://github.com/aryanshekhada08/php-crud-student.git
    cd php-crud-student
-2. **Import the Database**
 
-Create a database named student_crud (or your preferred name)
-
-Import the SQL file from /database/student_crud.sql
-
-3. **Configure the Database Connection**
-
-  Open config.php or your DB config file
-  
-  Set your DB credentials:
-  
-  $conn = new mysqli('localhost', 'root', '', 'student_crud');
   
 **👨‍💻 Author:-**
 **Aryan Shekhada**
