@@ -64,6 +64,8 @@ A complete **Student Registration and Management System** built using **PHP, MyS
 **Aryan Shekhada**
 
 📧 aryanshekhada30@gmail.com
+
+
 🌐 Project hosted on Wuaze
 
 ⭐ Feedback & Contributions
