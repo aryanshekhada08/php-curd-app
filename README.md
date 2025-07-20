@@ -7,13 +7,13 @@ A complete **Student Registration and Management System** built using **PHP, MyS
 ## 📸 Screenshots
 
 ### 🎓 Student Registration Form
-![Registration Form](screenshots/registration.JPEG)
+![Registration Form](screenshots/registration.jpeg)
 
 ### ✏️ Edit Student Details
-![Edit Form](screenshots/edit.JPEG)
+![Edit Form](screenshots/edit.jpeg)
 
 ### 📋 Dashboard View (Manage Students)
-![Dashboard](screenshots/dashboard.JPEG)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ---
 
