@@ -1,7 +1,8 @@
 # 🧑‍🎓 PHP CRUD Student Management System
 
 A complete **Student Registration and Management System** built using **PHP, MySQL, HTML, CSS**, and **Bootstrap**. This project allows you to perform full **CRUD operations** (Create, Read, Update, Delete) with features like image upload, gender selection, course dropdown, hobbies checkboxes, and more.
-
+### Live ###
+Link 
 ---
 
 ## 📸 Screenshots
